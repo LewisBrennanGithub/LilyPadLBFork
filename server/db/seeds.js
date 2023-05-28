@@ -33,11 +33,6 @@ const frogs = [
       "friends": []
     },
     {
-      "name": "Pepe the Frog",
-      "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
-      "friends": []
-    },
-    {
       "name": "Alfred Hitchcroak",
       "image_url": "https://images.pexels.com/photos/1370740/pexels-photo-1370740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "friends": []
